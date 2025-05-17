@@ -8,7 +8,7 @@ This project was built during a 48-hour hackathon as a demonstration of how geom
 
 ## 🚀 Try It Out
 
-🎥 Watch the demo: [youtu.be](https://youtu.be) *(Link your demo video here)*
+🎥 Watch the demo: [youtu.be](https://youtu.be)
 
 ---
 
